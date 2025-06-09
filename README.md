@@ -33,3 +33,6 @@ Visualisasi peta interaktif dibuat menggunakan Folium, yang menampilkan wilayah 
    ```bash
    git clone https://github.com/BaimMudrik182/UAS-SIG.git
    cd UAS-SIG
+## NAMA DAN NPM
+NAMA : BAIM MUDRIK AZIZ
+NPM  : G1A022071
